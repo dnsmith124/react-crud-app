@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Project Overview
+
+A simple CRUD app revolving around users. Add, edit or delete individual users, with the list of users stored in localStorage. The list of users is stored automatically whenever a user is added, updated or deleted, but the user list can also be saved manually for additional user certainty.  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
